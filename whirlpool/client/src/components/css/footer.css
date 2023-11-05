@@ -1,0 +1,58 @@
+/* Style the footer container */
+.whirlpool-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    /* height: 30vh; */
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  /* Style the About Us section */
+  .whirlpool-footer .col-md-3 h4 {
+    font-size: 20px;
+  }
+  
+  /* Style the Help Center and Community sections */
+  .whirlpool-footer .col-md-3 ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .whirlpool-footer .col-md-3 ul li {
+    margin-bottom: 10px;
+  }
+  
+  .whirlpool-footer .col-md-3 ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style the Contact Us section */
+  .whirlpool-footer .col-md-3 p {
+    margin: 10px 0;
+  }
+  
+  /* Style the horizontal rule */
+  .whirlpool-footer hr {
+    border-color: #555;
+  }
+  
+  /* Style the Whirlpool text */
+  .whirlpool-footer .col-md-6 p {
+    font-size: 18px;
+  }
+  
+  /* Style the social icons */
+  .whirlpool-footer .social-icons li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .whirlpool-footer .social-icons li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }

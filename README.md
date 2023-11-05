@@ -216,10 +216,10 @@ stipulate functionality and improvements that can be implemented in the future.
 <br>
 
 
-<!-- VIDEO DEMONSTRATION -->
+<!-- VIDEO WALKTHROUGH -->
 
-### Video Demonstration
-
+### Walkthrough
+<p>You can view the walkthough video <a href="https://drive.google.com/file/d/1xgmkC0OvS-_fuqtiHQIZKY5BHqz9ktbV/view?usp=sharing">here</a></p>
 <!-- TODO Change this -->
 
 <!-- To see a run through of OpenStack, click below: -->

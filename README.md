@@ -31,7 +31,7 @@
     - [Future Implementation](#future-implementation)
 - [Final Outcome](#final-outcome)
     - [Mockups](#mockups)
-    - [Walkthrough](#walkthough)
+    - [Walkthrough](#walkthrough)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 

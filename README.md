@@ -156,7 +156,7 @@ stipulate functionality and improvements that can be implemented in the future.
 
 Distributed under the MIT License. See `LICENSE` for more information.\
 
-- **Project Link** - https://github.com/GlenDorner221358/Whirlpool
+- **Original Project Link** - https://github.com/GlenDorner221358/Whirlpool
 
 # Acknowledgements
 

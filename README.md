@@ -1,6 +1,3 @@
-
-<br />
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/GlenDorner221358/Whirlpool?color=lightblue)
 ![GitHub watchers](https://img.shields.io/github/watchers/GlenDorner221358/Whirlpool?color=lightblue)
 ![GitHub language count](https://img.shields.io/github/languages/count/GlenDorner221358/Whirlpool?color=lightblue)
@@ -9,26 +6,12 @@
 <h5 align="center" style="padding:0;margin:0;">Christian Krahtz | Glen Dorner | Hannah Naidoo | Tsebo Ramonyalioa </h5>
 <h5 align="center" style="padding:0;margin:0;">221198 | 221358 | 21100366 | 200200</h5>
 <h6 align="center">DV200 | Term 4</h6>
-</br>
+
 <p align="center">
-
-  <a href="https://github.com/GlenDorner221358/Whirlpool">
-    <img src="/whirlpool/client/Assets/Whirlpool.svg" width="200px">
-  </a>
-
-<h3 align="center">Whirlpool</h3>
-
-  <p align="center">
-    This is a MERN Stack Q&A<br>
-   <br />
-   <br />
-   <!-- <a href="https://youtu.be/8iZ_rSmcN0E">View Demo</a> -->
-    ·
-    <a href="https://github.com/GlenDorner221358/Whirlpool/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/GlenDorner221358/Whirlpool/issues">Request Feature</a>
+  <a href="https://github.com/GlenDorner221358/Whirlpool"><img src="/whirlpool/client/Assets/Whirlpool.svg" width="200px"></a>
+  <h3 align="center">Whirlpool</h3>
+  <p align="center">This is a MERN Stack Q&A</p>
 </p>
-<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -52,29 +35,19 @@
     - [Video Demonstration](#video-demonstration)
 - [Conclusion](#conclusion)
 - [License](#license)
-<!-- - [Contact](#contact) -->
 - [Acknowledgements](#acknowledgements)
-
-<!--PROJECT DESCRIPTION-->
 
 ## About the Project
 
-<!-- header image of project -->
-
-<!-- ![image1][image1] -->
-
 ### Project Description
 
-<!-- Welcome to Dream Team! This is an API-generated webpage, it is similar to seeing a Forex website/application which displays statistics on the currencies, well with that in mind, Dream Team displays players' statistics such as their Field Ground Points,
-3pt field ground goals made, field ground percentage ad well as more stats such as offensive rebounds. This website benefits NBA and basketball wannabes to learn more about basketball much easier with the help of Chart.js to display the content in an interesting manner. Please note that most of these NBA stats are up to 2018. -->
-
-Welcome to Whirlpool! This is a developer's Q&A platform, something you probably have seen on sites like Stack Overflow. This is exactly the same thing, except we took on our own spin on it! Users can ask and answer questions, receive achievements based on user score and much, much more. This application was built with the MERN Stack
+Welcome to Whirlpool! This is a developer's Q&A platform, something you probably have seen on sites like Stack Overflow. This is exactly the same thing, except we took nour own spin on it! Users can ask and answer questions, receive achievements based on user score and much, much more. This application was built with the MERN Stack
 
 ### Built With
-<!-- [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) -->
-
-<!-- [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://expressjs.com/) -->
-[<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://expressjs.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://reactjs.org/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://nodejs.org/en/)
+[<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) 
+[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">](https://expressjs.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">](https://reactjs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">](https://nodejs.org/en/)
 
 
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://nodejs.org/en/) -->

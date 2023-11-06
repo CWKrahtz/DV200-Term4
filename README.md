@@ -39,10 +39,10 @@
 Welcome to Whirlpool! This is a developer's Q&A platform, something you probably have seen on sites like Stack Overflow. This is exactly the same thing, except we took our own spin on it! Users can ask and answer questions, receive achievements based on user scores, and much, much more. This application was built with the MERN Stack
 
 ## Built With
-*  [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) 
-*  [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">](https://expressjs.com/)
-*  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">](https://reactjs.org/)
-*  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">](https://nodejs.org/en/)
+-  [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) 
+-  [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">](https://expressjs.com/)
+-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">](https://reactjs.org/)
+-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">](https://nodejs.org/en/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
